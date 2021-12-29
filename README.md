@@ -1,4 +1,4 @@
-<a href="#"><img width="70%" height="auto" object-position="100%" src="https://lh3.googleusercontent.com/proxy/1Uoby5SND6NYStbSJG36zmaB7Tl38uAUnLG2E41jQuQ-ww6H3X0wRDxR4rpLmScQUzlMhE-uwneq7ES3np_kSiNEgZtaNQ" height="175px"/></a>
+<p align= "center"><a href="#"><img width="70%" height="auto" object-position="100%" src="https://lh3.googleusercontent.com/proxy/1Uoby5SND6NYStbSJG36zmaB7Tl38uAUnLG2E41jQuQ-ww6H3X0wRDxR4rpLmScQUzlMhE-uwneq7ES3np_kSiNEgZtaNQ" height="175px"/></a></p>
 
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Shivrani</h1>
 <h3 align="center">I'm a passionate Web Developer from India.</h3>
