@@ -2,6 +2,9 @@
 
 <h1 align="center">Hey 👋, I'm Shivrani</h1>
 <h3 align="center">I'm a passionate Web Developer from India.</h3>
+<p> I am a web developer and software development engineer. I am pursuing my Integrated Post Graduation in Information Technology from the Indian Institute of Information Technology and Management, Gwalior, India.  </p>
+<p>I must tell you, as a web developer, the more I use a piece of code, the more confident and familiar I become with it, which in turn speeds up my development time!</p>
+<br>
 <br> 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" />
 
