@@ -2,7 +2,7 @@
 
 <h1 align="center">Hey 👋, I'm Shivrani</h1>
 <h3 align="center">I'm a passionate Web Developer from India.</h3>
-<p> I am a web developer and software development engineer. I am pursuing my Integrated Post Graduation in Information Technology from the Indian Institute of Information Technology and Management, Gwalior, India.  </p>
+<p> I am a web developer and software development engineer. I am pursuing my integrated post-graduation in information technology at the Indian Institute of Information Technology and Management, Gwalior, India.  </p>
 <p>I must tell you, as a web developer, the more I use a piece of code, the more confident and familiar I become with it, which in turn speeds up my development time!</p>
 <br>
 <br> 
@@ -10,13 +10,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivraniaj&label=Profile%20views&color=0e75b6&style=flat" alt="shivraniaj" /> </p>
 
-- 🔭 I’m currently working on **Surface Floating Object Detection Project**
+- 🔭 I’m currently working on **Physical Layer Authentication using convolutional Denoising Autoencoder**
 
 - 🌱 I’m currently learning **Machine Learning and Deep Learning.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects.**
 
-- 🤝 I’m looking for **an Internship.**
+- 🤝 I’m looking for **an Full Time SDE Role.**
 
 - 💬 Ask me about **Data Structures and Algorithms.**
 
