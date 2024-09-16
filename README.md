@@ -1,4 +1,8 @@
-[![MasterHead](https://camo.githubusercontent.com/48ec00ed4c84e771db4a1db90b56352923a8d644452a32b434d68e97006c9337/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966)](https://ShivraniAJ.io)
+<!--
+[![MasterHead](https://camo.githubusercontent.com/777b3021b0aa890665c2eddb1c8fa5509bb82893db637134f9013de0831e6716/68747470733a2f2f7777772e6469676974616c736f6c7574696f6e73657276696365732e636f6d2f696d672f73657276696365732f776562253230646576656c6f706d656e742e676966)](https://ShivraniAJ.io)
+-->
+
+[![MasterHead](https://richestsoft.com/blog/wp-content/uploads/2019/04/web-development-banner.jpg)](https://ShivraniAJ.io)
 
 <h1 align="center">Hey 👋, I'm Shivrani</h1>
 <h3 align="center">I'm a passionate Software Developer from India.</h3>
